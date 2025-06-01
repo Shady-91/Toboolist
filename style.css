@@ -37,7 +37,7 @@ h1 {
 }
 .page-wrapper {
       display: flex;
-      flex-direction: right;
+      flex-direction: column;
       align-items: center;
       justify-content: center;
       width: 60%;
@@ -50,5 +50,13 @@ body {
       margin: 0;
       font-family: Arial, sans-serif;
       background-color: #c3c9cf;
-      
+
+}
+.class {
+      color: #356ca3;
+      font-size: 20px;
+      margin: 10px 0;
+      display: inline;
+      vertical-align: top;
+      margin-right: 2cm;
 }
