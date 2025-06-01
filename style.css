@@ -35,3 +35,20 @@ h1 {
       border-radius: 5px;
       box-shadow: 0 1px 2px rgba(0, 0, 0, 0.1);
 }
+.page-wrapper {
+      display: flex;
+      flex-direction: right;
+      align-items: center;
+      justify-content: center;
+      width: 60%;
+      height: 100%;
+      margin: 0 auto;
+      padding: 20px;
+      background-color: #f8f9fa;
+}
+body {
+      margin: 0;
+      font-family: Arial, sans-serif;
+      background-color: #c3c9cf;
+      
+}
