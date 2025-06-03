@@ -50,13 +50,18 @@ body {
       margin: 0;
       font-family: Arial, sans-serif;
       background-color: #c3c9cf;
-
 }
-.class {
-      color: #356ca3;
-      font-size: 20px;
-      margin: 10px 0;
-      display: inline;
-      vertical-align: top;
-      margin-right: 2cm;
+.div-class-input {
+      width: 100%;
+      padding: 10px;
+      margin: 5px 0;
+      box-sizing: border-box;
+      border: 1px solid #ccc;
+      border-radius: 4px;
+      background-color: #f8f9fa;
+      color: #245383;
+}
+.no-bullet-list {
+      list-style-type: none;
+      padding: 0;
 }
