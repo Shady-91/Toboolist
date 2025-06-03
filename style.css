@@ -51,8 +51,48 @@ body {
       font-family: Arial, sans-serif;
       background-color: #c3c9cf;
 }
-.div-class-input {
+.span-class-add-section {
+      color: #b7c8d9;
+      font-weight: bold;
+      font-size: 16px;
+      margin-bottom: 10px;
+      background-color: #f8f9fa;
+}
+.white-badge {
+      background-color: #ffffff;
+      color: #888e95;
+      padding: 5px 8px;
+      font-size: 14px;
+      border-radius: 6px;
+      border: 1px solid #ccc;
+      box-shadow: 0 1px 2px rgba(0, 0, 0, 0.1);
       width: 100%;
+      box-sizing: border-box;
+}
+
+.purple-badge {
+      background-color: #a580ea;
+      color: white;
+      border-radius: 6px;
+      padding: 5px 8px;
+      font-size: 14px;
+}
+.green-badge {
+      background-color: #329fac;
+      color: white;
+      border-radius: 8px;
+      padding: 5px 8px;
+}
+.badge {
+      background-color: #007bff;
+      color: white;
+      padding: 5px 10px;
+      border-radius: 6px;
+      font-size: 14px;
+
+}
+.div-class-input {
+      width: 80%;
       padding: 10px;
       margin: 5px 0;
       box-sizing: border-box;
@@ -60,6 +100,27 @@ body {
       border-radius: 4px;
       background-color: #f8f9fa;
       color: #245383;
+}
+.badge-rose {
+      background-color: #f0287b;
+      color: white;
+      padding: 5px 8px;
+      border-radius: 10px;
+      font-size: 14px;
+}
+.badge-green {
+      background-color: #7bbe60;
+      color: white;
+      padding: 5px 8px;
+      border-radius: 6px;
+      font-size: 14px;
+}
+.badge-orange {
+      background-color: #e88b09;
+      color: white;
+      padding: 5px 8px;
+      border-radius: 6px;
+      font-size: 14px;
 }
 .no-bullet-list {
       list-style-type: none;
