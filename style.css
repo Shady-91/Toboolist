@@ -113,7 +113,19 @@ body {
       border : 4px solid #5cc2c2;
       color: #57f0f0;
       opacity: 0.6;
-      
+    }
+    .red-circle {
+      width: 20px;
+      height: 20px;
+      border-radius: 50%;
+      background: #f8fdfd;
+      display: inline-flex;
+      margin: 1px 0;
+      align-items: center;
+      justify-content: center;
+      border : 4px solid #c13838;
+      color: #c13838;
+      opacity: 0.6;
     }
 
 
